@@ -13,29 +13,31 @@ In short about me:
 
 <div>    
 <h2>Языки</h2>
-<img src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000">
-<img src="https://img.icons8.com/?size=50&id=40670&format=png&color=000000">
-<img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000">
-<img src="https://img.icons8.com/?size=50&id=ZoxjA0jZDdFZ&format=png&color=000000">
-<img src="https://img.icons8.com/?size=50&id=J6KcaRLsTgpZ&format=png&color=000000"/>
+<img src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000" alt="C++">
+<img src="https://img.icons8.com/?size=50&id=40670&format=png&color=000000" alt="C">
+<img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000" alt="Python"/>
+<img src="https://img.icons8.com/?size=50&id=ZoxjA0jZDdFZ&format=png&color=000000" alt="Kotlin"/>
+<img src="https://img.icons8.com/?size=50&id=7AFcZ2zirX6Y&format=png&color=000000" alt="Dart"/>
+<img src="https://img.icons8.com/?size=50&id=J6KcaRLsTgpZ&format=png&color=000000" alt="SQL"/>
 
 <h2>Фреймворки</h2>
-<a target="_blank" href="https://www.qt.io/product/framework"><img src = "https://img.icons8.com/?size=45&id=47039&format=png&color=44E24E"></a>
-<a target="_blank" href="https://flutter.dev/"><img src = "https://img.icons8.com/?size=45&id=7I3BjCqe9rjG&format=png&color=000000"></a>
+<a target="_blank" href="https://www.qt.io/product/framework"><img src="https://img.icons8.com/?size=45&id=47039&format=png&color=44E24E" alt="Qt"/></a>
+<a target="_blank" href="https://flutter.dev/"><img src="https://img.icons8.com/?size=45&id=7I3BjCqe9rjG&format=png&color=000000" alt="Flutter"/></a>
+<a target="_blank" href="https://riverpod.dev/"><img src="https://riverpod.dev/ru/img/logo.png" width="45" height="45" alt="Riverpod"/></a>
 
 <h2>СУБД</h2>
-<a target="_blank" href="https://www.postgresql.org/"><img src="https://img.icons8.com/?size=45&id=38561&format=png&color=000000"/></a>
-<a target="_blank" href="https://sqlite.org/"><img src="https://img.icons8.com/?size=45&id=VMRAbKfEzssG&format=png&color=1689B3"/></a>
-<a target="_blank" href="https://www.mongodb.com/"><img src="https://img.icons8.com/?size=45&id=bosfpvRzNOG8&format=png&color=000000"/></a>
+<a target="_blank" href="https://www.postgresql.org/"><img src="https://img.icons8.com/?size=45&id=38561&format=png&color=000000" alt="Postgresql"/></a>
+<a target="_blank" href="https://sqlite.org/"><img src="https://img.icons8.com/?size=45&id=VMRAbKfEzssG&format=png&color=1689B3" alt="Sqlite"/></a>
+<a target="_blank" href="https://www.mongodb.com/"><img src="https://img.icons8.com/?size=45&id=bosfpvRzNOG8&format=png&color=000000" alt="Mongodb"/></a>
 
 <h2>Разное</h2>
-<img src="https://img.icons8.com/color/45/000000/linux.png"/>
-<img src="https://img.icons8.com/?size=45&id=20906&format=png&color=000000"/>
-<img src="https://img.icons8.com/?size=45&id=04OFrkjznvcd&format=png&color=000000"/>
-<img src="https://img.icons8.com/?size=45&id=17836&format=png&color=000000"/>
-<img src="https://img.icons8.com/?size=45&id=9OGIyU8hrxW5&format=png&color=000000"/>
-<img src="https://img.icons8.com/?size=45&id=J0SgMWzAxqFj&format=png&color=000000"/>
-<img src="https://img.icons8.com/?size=45&id=WBooq2dInw0x&format=png&color=000000"/>
+<img src="https://img.icons8.com/color/45/000000/linux.png" alt="Linux"/>
+<img src="https://img.icons8.com/?size=45&id=20906&format=png&color=000000" alt="Git"/>
+<img src="https://img.icons8.com/?size=45&id=04OFrkjznvcd&format=png&color=000000" alt="Android Studio"/>
+<img src="https://img.icons8.com/?size=45&id=17836&format=png&color=000000" alt="Android"/>
+<img src="https://img.icons8.com/?size=45&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code"/>
+<img src="https://img.icons8.com/?size=45&id=J0SgMWzAxqFj&format=png&color=000000" alt="Jupyter"/>
+<img src="https://img.icons8.com/?size=45&id=WBooq2dInw0x&format=png&color=000000" alt="LaTeX"/>
 </div> 
 
 [![Manjaro](https://img.shields.io/badge/OS-Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org)
