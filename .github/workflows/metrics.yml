@@ -3,6 +3,9 @@ on:
   schedule: [{ cron: "0 0 * * *" }]  # Ежедневное обновление
   workflow_dispatch:                  # Ручной запуск
 
+permissions:
+  contents: write
+  
 jobs:
   languages:
     runs-on: ubuntu-latest
