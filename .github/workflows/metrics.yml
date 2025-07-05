@@ -19,5 +19,5 @@ jobs:
           plugin_languages: yes        # Активировать плагин
           plugin_languages_ignored: jupyter notebook, html  # Исключить Jupyter
           plugin_languages_indepth: yes
-          plugin_languages_details: lines, percentage
+          plugin_languages_details: lines
           plugin_languages_limit: 8    # Макс. языков
