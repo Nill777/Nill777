@@ -11,6 +11,9 @@ In short about me:
       
 <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nill777&theme=algolia&count_private=true&hide=html&layout=compact" />  
 
+[![Metrics](https://metrics.lecoq.io/Nill777?template=classic&languages=1&languages.colors=github&languages.threshold=0%25)](https://github.com/lowlighter/metrics)
+
+
 <div>    
 <h2>Языки</h2>
 <img src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000" alt="C++">
@@ -41,3 +44,18 @@ In short about me:
 </div> 
 
 [![Manjaro](https://img.shields.io/badge/OS-Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>

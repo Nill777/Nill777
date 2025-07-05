@@ -1,0 +1,18 @@
+name: Languages Metrics
+on:
+  schedule: [{ cron: "0 0 * * *" }]  # Ежедневное обновление
+  workflow_dispatch:                  # Ручной запуск
+
+jobs:
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.Metrics }}
+          filename: languages.svg      # Имя выходного файла
+          plugin_languages: yes        # Активировать плагин
+          plugin_languages_details: "bytes-size, percentage"
+          plugin_languages_limit: 8    # Макс. языков
+          plugin_languages_exclude: jupyter notebook, html  # Исключить Jupyter :cite[7]
+          plugin_languages_threshold: 0%  # Показывать языки >0%
