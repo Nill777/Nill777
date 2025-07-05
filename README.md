@@ -9,9 +9,9 @@ In short about me:
 - I graduated many courses of Programming sphere
 - I'm learning Androing development now
       
-<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nill777&theme=algolia&count_private=true&hide=html&layout=compact" />  
+<!-- <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nill777&theme=algolia&count_private=true&hide=html&layout=compact" />   -->
 
-[![Metrics](./languages.svg)](https://github.com/lowlighter/metrics)
+![Languages](https://raw.githubusercontent.com/Nill777/Nill777/master/languages.svg)
 
 <div>    
 <h2>Языки</h2>
