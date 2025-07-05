@@ -15,10 +15,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: languages.svg      # Имя выходного файла
 
-          base: ""
           base_skip: true
 
           plugin_languages: yes        # Активировать плагин
           plugin_languages_details: "bytes-size, percentage"
           plugin_languages_limit: 8    # Макс. языков
           plugin_languages_ignored: jupyter notebook, html  # Исключить Jupyter]
+
+          config_animations: true
