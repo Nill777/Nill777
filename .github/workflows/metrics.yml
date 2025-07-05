@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.Metrics }}
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: languages.svg      # Имя выходного файла
           plugin_languages: yes        # Активировать плагин
           plugin_languages_details: "bytes-size, percentage"

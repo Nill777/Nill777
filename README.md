@@ -12,6 +12,7 @@ In short about me:
 <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nill777&theme=algolia&count_private=true&hide=html&layout=compact" />  
 
 [![Metrics](https://metrics.lecoq.io/Nill777?template=classic&languages=1&languages.colors=github&languages.threshold=0%25)](https://github.com/lowlighter/metrics)
+Н
 
 
 <div>    
